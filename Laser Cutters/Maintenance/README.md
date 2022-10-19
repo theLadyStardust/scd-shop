@@ -13,3 +13,4 @@ There are a few tasks that should be taken care of regularly. The following list
 
 **Every 4-6 Months:**
 - [Software & Firmware update](Software_&_Firmware_update.md)
+- Gantry [mirror and prism cleaning](Lens_&_Mirror_Cleaning.md)
