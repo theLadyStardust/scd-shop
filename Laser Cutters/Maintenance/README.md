@@ -8,9 +8,9 @@ There are a few tasks that should be taken care of regularly. The following list
  - Carriage [lens and mirror cleaning](Lens_&_Mirror_Cleaning.md)
  
 **Weekly:**
-- [Bed Sweep](Laser Cutters/Maintenance/Bed Sweep.md)
+- [Bed Sweep](Laser_Cutters/Maintenance/Bed_Sweep.md)
 - [Inside Cleanup](Inside_Cleanup.md)
 
 **Every 4-6 Months:**
 - [Software & Firmware update](Software_&_Firmware_update.md)
-- Gantry [mirror and lens cleaning](Lens_&_Mirror Cleaning.md)
+- Gantry [mirror and lens cleaning](Lens_&_Mirror_Cleaning.md)
